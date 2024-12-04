@@ -60,4 +60,6 @@ body{
 #right{
     float: right;
 }
-
+img{
+    width: 40vw;
+}
